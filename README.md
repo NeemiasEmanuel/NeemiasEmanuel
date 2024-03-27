@@ -11,6 +11,16 @@
   <img align="center" alt="Csharp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />          
 </div>
 
+##
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+## Neste perfil você encontrará
+<ul>
+ <li>Materiais de estudo</li>
+ <li>Projetos</li>
+</ul>
+
 <!--
 **NeemiasEmanuel/NeemiasEmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
